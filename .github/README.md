@@ -36,7 +36,7 @@ You can read the full checklist in [`CHECKLIST.md`](https://github.com/Lissy93/p
 
 The easiest method for consuming the checklist is via our website, at: **[digital-defense.io](https://digital-defense.io/)**
 
-Here you can browse lists, filter by your threat model and tick items off once complete (plus, there's pretty charts to make you feel good about your progress ☺️).
+Here you can browse lists, filter by your threat model and tick items off once complete (plus, there are pretty charts to make you feel good about your progress ☺️).
 
 <p align="center">
 <img width="600" src="https://i.ibb.co/jzKn05H/digital-defense.png" />
@@ -54,7 +54,7 @@ To run the app locally, or to make code changes, you'll need Node and Git instal
 3. Install dependencies: `yarn`
 4. Start the development server: `yarn dev`
 
-Alternatively, just open this repo is Code Spaces, where everything is already configured and ready to go.
+Alternatively, just open this repo in Code Spaces, where everything is already configured and ready to go.
 
 ### Deploying
 To deploy the app, follow the developing steps above, then run `yarn build`,`yarn build.static`. You can then deploy it by copying the `dist/` directory to any CDN, web server or static hosting provider of your choice.
@@ -193,8 +193,8 @@ Thank you to all who have contributed to, or sponsored this project!
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/vlad-timofeev">
-            <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-timofeev"/>
+        <a href="https://github.com/vlad-tim">
+            <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
             <br />
             <sub><b>Vlad</b></sub>
         </a>
@@ -228,20 +228,13 @@ Thank you to all who have contributed to, or sponsored this project!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/allesauseinerhand">
-            <img src="https://avatars.githubusercontent.com/u/32039836?v=4" width="80;" alt="allesauseinerhand"/>
-            <br />
-            <sub><b>Allesauseinerhand</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/forwardemail">
             <img src="https://avatars.githubusercontent.com/u/32481436?v=4" width="80;" alt="forwardemail"/>
             <br />
             <sub><b>Forward Email - Open-source & Privacy-focused Email Service (2023)</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Bastii717">
             <img src="https://avatars.githubusercontent.com/u/53431819?u=604977bed6ad6875ada890d0d3765a4cacc2fa14&v=4" width="80;" alt="Bastii717"/>
@@ -275,14 +268,6 @@ Thank you to all who have contributed to, or sponsored this project!
             <img src="https://avatars.githubusercontent.com/u/121595180?v=4" width="80;" alt="terminaltrove"/>
             <br />
             <sub><b>Terminal Trove</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/NixyJuppie">
-            <img src="https://avatars.githubusercontent.com/u/138570196?u=b102c222487905728b858704962d32759df29ebe&v=4" width="80;" alt="NixyJuppie"/>
-            <br />
-            <sub><b>Nixy</b></sub>
         </a>
     </td>
     <td align="center">
